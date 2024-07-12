@@ -10,17 +10,17 @@ import run2
 
 if __name__ == '__main__':
     # moment = dt(2022, 9, 7, 8, 0, 0, 0)
-    # studentIDs = ["99102189"]
-    # passWDs = ["138113811381Tt"]
-    studentIDs = ["400100746"]
-    passWDs = ["Ho13811381"]
+    # studentIDs = [""]
+    # passWDs = [""]
+    studentIDs = [""]
+    passWDs = [""]
     # change = [2,0]
     # moment = dt(2023, 2, 14, 7, 49, 2, 0)
     # momentt = dt(2023, 2, 14, 7, 46, 4, 0)
     moment = dt(2023, 9, 11, 8, 0, 0, 0)
     # momentt = dt(2023, 2, 14, 8, 0, 4, 0)
-    # studentIDs = ["400109254", "400109254"]
-    # passWDs = ["0150341660", "0150341660"]
+    # studentIDs = ["", ""]
+    # passWDs = ["", ""]
     # lessons = [5,1]
     # run.choose_for_me(studentIDs[0], passWDs[0], moment, 0)
     # lock = threading.Lock()
